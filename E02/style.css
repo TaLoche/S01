@@ -1,0 +1,96 @@
+/* Ici vos styles CSS*/
+/* Je vais faire une présentation trop chouchou pour fayoter grave */
+
+body {
+    background-color:#dfefec;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    text-align: center;
+}
+
+h1 {
+    color:#fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 44px;
+    background-color: #0dbb9d;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #118f7a;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+span{
+    font-size: 65px;
+    line-height: 69px;
+}
+
+div {
+    background-color: #fff;
+}
+
+p{
+    font-size: 15px;
+    line-height: 32px;
+}
+#unique{
+    text-align: center;
+    background-color: #ffffdb;
+}
+
+strong {
+    font-weight: bold; 
+}
+
+em{
+    text-decoration: overline;
+}
+
+#title{
+    text-decoration: none;
+    font-style: italic;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    border-color: #000;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+}
+
+footer{
+    background-color: #0dbb9d;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    height:80px;
+}
+
+aside{
+    color:#000;
+    font-size: small;
+}
+
+a {
+    color:#fff;
+  }
+
+a:hover {
+    background-color: gold;
+    color: #000;
+  }
